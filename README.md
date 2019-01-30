@@ -6,7 +6,7 @@
 <br>A full example would be node liri.js concert-this red hot chili peppers.
 <br><br>
 # Liri Homework Screenshots:
-Spotify-this-song default: http://prntscr.com/me0trp<br>
+Spotify-this-song default: http://prntscr.com/me115e<br>
 Spotify-this-song custom: http://prntscr.com/me0tyh<br>
 Concert-this: http://prntscr.com/me0ub1<br>
 Movie-this default: http://prntscr.com/me0uij<br>
