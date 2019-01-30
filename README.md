@@ -5,11 +5,11 @@
 <br>Command will be your desired search parameter, i.e. a band, song, or movie.
 <br>A full example would be node liri.js concert-this red hot chili peppers.
 <br><br>
-#Liri Homework Screenshots:
-Spotify-this-song default: http://prntscr.com/me0trp
-Spotify-this-song custom: http://prntscr.com/me0tyh
-Concert-this: http://prntscr.com/me0ub1
-Movie-this default: http://prntscr.com/me0uij
-Movie-this custom: https://prnt.sc/me0upj
-do-what-it-says: http://prntscr.com/me0v06
+# Liri Homework Screenshots:
+Spotify-this-song default: http://prntscr.com/me0trp<br>
+Spotify-this-song custom: http://prntscr.com/me0tyh<br>
+Concert-this: http://prntscr.com/me0ub1<br>
+Movie-this default: http://prntscr.com/me0uij<br>
+Movie-this custom: https://prnt.sc/me0upj<br>
+do-what-it-says: http://prntscr.com/me0v06<br>
 
